@@ -1,2 +1,3 @@
 # Hello-World
-First repository, for random stuff
+First repository, for random things
+Like Brunch, or branches!
